@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "httpSampleProject"
+  "defaultProject": "httpSampleProject",
+  "cli": {
+    "analytics": false
+  }
 }
